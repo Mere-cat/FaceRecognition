@@ -1,10 +1,10 @@
-# **多媒體技術概論 作業一**
+# **Face Recognition using NN search**
 
 408125029 王禮芳
 
 ## Program Implementation
 
-作業程式分成四步驟，分別是讀進檔案、分割資料集、進行NN search以及計算此方法辨識同一人人臉的準確度。
+程式分成四步驟，分別是讀進檔案、分割資料集、進行NN search以及計算此方法辨識同一人人臉的準確度。
 
 ### 1. 讀取檔案
 
