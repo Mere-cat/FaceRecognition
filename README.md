@@ -1,4 +1,4 @@
-# **Face Recognition using NN search**
+# **Face Recognition Using NN Search**
 
 408125029 王禮芳
 
